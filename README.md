@@ -22,32 +22,25 @@
 
 ## Python
 
-* classmethod和staticmethod的区别
+* [classmethod和staticmethod的区别](/Python/classmethod和staticmethod的区别.md)
 
-* 进阶
+* [进阶](/Python/进阶.md)
 
 ## Tmux
 
-* cheatsheet
+* [cheatsheet](/Tmux/cheatsheet.md)
 
 ## Vim
 
-* Ctags
+* [Ctags](/Vim/Ctags.md)
 
 ## 前端
 
-* 图片上添加文字效果
+* [图片上添加文字效果](/前端/图片上添加文字效果.md)
 
 ## 密码学
 
-* 对称加密
+* [对称加密](/密码学/对称加密.md)
 
-* 对称加密算法： DES
+* 对称加密算法： [DES](/密码学/对称加密算法/DES.md)
 
-## Blog
-
-* 使用selenium爬取页面
-
-* 关于Scheme的cons, car, cdr实现的思考
-
-* 用Crontab + virtualenv 执行Python任务时的坑点
