@@ -14,11 +14,11 @@
 
 * [Find process by listening port](/Linux/Find_process_by_listening_port.md)
 
-* [Sub-process /usr/bin/dpkg returned an error code](/Linux/)
+* [Sub-process /usr/bin/dpkg returned an error code](/Linux/Sub-process_:usr:bin:dpkg_returned_an_error_code)
 
-* Ubuntu 16.04安装Redis
+* [Ubuntu 16.04安装Redis](/Linux/Ubuntu_16.04安装Redis.md)
 
-* Ubuntu 升级Python2.X
+* [Ubuntu升级Python2.X](/Linux/Ubuntu升级Python2.X.md)
 
 ## Python
 
