@@ -16,7 +16,7 @@
 
 * [Sub-process /usr/bin/dpkg returned an error code](/Linux/Sub-process_:usr:bin:dpkg_returned_an_error_code.md)
 
-* [Ubuntu 16.04安装Redis](/Linux/Ubuntu_16.04安装Redis.md)
+* [Ubuntu 16.04安装Redis](/Linux/Ubuntu_16.04下安装Redis.md)
 
 * [Ubuntu升级Python2.X](/Linux/Ubuntu升级Python2.X.md)
 
