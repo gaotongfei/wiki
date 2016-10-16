@@ -14,7 +14,7 @@
 
 * [Find process by listening port](/Linux/Find_process_by_listening_port.md)
 
-* [Sub-process /usr/bin/dpkg returned an error code](/Linux/Sub-process_:usr:bin:dpkg_returned_an_error_code)
+* [Sub-process /usr/bin/dpkg returned an error code](/Linux/Sub-process_:usr:bin:dpkg_returned_an_error_code.md)
 
 * [Ubuntu 16.04安装Redis](/Linux/Ubuntu_16.04安装Redis.md)
 
