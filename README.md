@@ -26,6 +26,8 @@
 
 * [进阶](/Python/进阶.md)
 
+* Flask: [Flask使用requests模块访问本地api](/Python/Flask/flask使用requests模块访问本地api.md)
+
 ## Tmux
 
 * [cheatsheet](/Tmux/cheatsheet.md)
